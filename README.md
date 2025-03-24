@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 🌍 Based in Leicester, UK (F701-A Newarke Point, LE2 7GZ)<br> - 📧 Reach me at [srisaravanan2002@gmail.com](mailto:srisaravanan2002@gmail.com)<br> - 🌱 Exploring Artificial Intelligence, Machine Learning, and advanced web development<br> - 💡 Curious problem-solver with a knack for innovation
+ - 🌍 Based in Leicester, UK <br> - 📧 Reach me at [srisaravanan2002@gmail.com](mailto:srisaravanan2002@gmail.com)<br> - 🌱 Exploring Artificial Intelligence, Machine Learning, and advanced web development<br> - 💡 Curious problem-solver with a knack for innovation
 
 
 ## 🌐 Socials:
